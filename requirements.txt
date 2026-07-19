@@ -3,4 +3,3 @@ langchain-core
 langchain-community
 pypdf
 pymupdf
-notebook
