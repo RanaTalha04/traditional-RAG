@@ -1,5 +1,10 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+
 langchain
 langchain-core 
 langchain-community
 pypdf
 pymupdf
+sentence-transformers
+faiss-cpu
+chromadb
